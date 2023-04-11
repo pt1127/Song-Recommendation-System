@@ -1,0 +1,1 @@
+Trong quá trình crawlyrics, chúng tôi sử dụng nhiều máy để tiến hành thu thập dữ liệu vì vậy có nhiều đầu ra nên cần gộp lại trong concat_outputfile.py.
